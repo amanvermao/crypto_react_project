@@ -1,0 +1,19 @@
+.exchangebody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;;
+    border-radius: 5px;
+    margin: 1.5rem;
+    transition: all 0.3s;  
+    height: 180px;
+   
+
+}
+.exchangebody:hover{
+   transform: scale(1.1);
+}

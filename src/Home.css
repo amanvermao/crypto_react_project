@@ -1,0 +1,14 @@
+.img>img{
+    height: 75vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
+.img{
+    align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 30px;
+  filter: grayscale();
+}
